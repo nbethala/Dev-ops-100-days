@@ -21,5 +21,28 @@ Each `dayXX-task-name` folder contains:
 - Learn by doing
 
 ---
+
+
+```
+100-days-devops/
+│
+├── README.md                # Overview of the challenge & your progress
+├── day01-create-noninteractive-user/
+│   ├── README.md             # Task details, steps, screenshots
+│   └── screenshots/          # Images for this task
+├── day02-<short-task-name>/
+│   ├── README.md
+│   └── screenshots/
+├── day03-<short-task-name>/
+│   ├── README.md
+│   └── screenshots/
+...
+├── day100-final-project/
+│   ├── README.md
+│   └── screenshots/
+└── assets/                   # Any shared diagrams, scripts, or templates
+
+```
+
 **Started:** 19 Sept 2025  
 **Expected Finish:** ~Dec 28 2025
